@@ -1,0 +1,38 @@
+.main{
+    height: 100%;
+    width: 100%;
+    display: flex;
+}
+.show{
+    width: 50%;
+    height: 100%;
+    padding: 2rem;
+}
+.image{
+    width: 100%;
+    height: 80%;
+    background-size: cover;
+    border-radius: 10%;
+    
+}
+.gallery{
+    width: 100%;
+    height: 20%;
+   display: flex;
+   justify-content: space-between;
+   padding-top:3%;
+   padding-bottom: 3%;
+}
+.gellery-img{
+    height: 100%;
+    width: 20%;
+    background-size: cover;
+    border-radius: 10px;
+}
+.prodoct-details{
+    width: 50%;
+    height: 100%;
+    display: flex ;
+    flex-direction: column;
+    justify-content: center;
+}
