@@ -1,0 +1,9 @@
+.modal{
+    position: absolute;
+    left: 70%;
+    width: 25%;
+    height: 20%;
+    top: 15%;
+    background-color: white;
+    display: none;
+}
